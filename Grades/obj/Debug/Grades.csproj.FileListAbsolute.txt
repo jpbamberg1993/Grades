@@ -1,0 +1,6 @@
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades\obj\Debug\Grades.pdb

@@ -1,0 +1,8 @@
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\jpbam\Documents\Practice-Work\Grades\Grades.Tests\bin\Debug\Grades.pdb
